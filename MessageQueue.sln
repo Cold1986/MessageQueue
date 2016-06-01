@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SendMessage", "MSMQ\SendMes
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReceiveQueue", "MSMQ\ReceiveQueue\ReceiveQueue.csproj", "{E31CCFCA-47B8-4191-B7D6-D237492D7A4F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SendMessageTransztion", "SendMessageTransztion\SendMessageTransztion.csproj", "{E101ABEF-9BEF-4B7C-A5A7-4CFF748129E7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SendMessageTransztion", "MSMQ\SendMessageTransztion\SendMessageTransztion.csproj", "{E101ABEF-9BEF-4B7C-A5A7-4CFF748129E7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
